@@ -27,3 +27,4 @@ $$\vec{d}=\vec{x}-\vec{p}$$
 Let $\vec{p}=k\vec{u}$
 so
 $$\vec{d}=\vec{x}-k\vec{u}$$
+$$\vec{z^6}$$
